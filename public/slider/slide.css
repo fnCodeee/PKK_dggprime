@@ -1,0 +1,62 @@
+.wrpper {
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+} .wrapper-holderrr {
+    display: grid;
+    grid-template-columns: repeat(4, 100%);
+    height: 100%;
+    width: 100%;
+    animation: slider 20s ease-in-out normal infinite; 
+} 
+
+/* #slide-1 {
+    background-image: url("https://i.pinimg.com/474x/c7/49/46/c74946d5abe61803085e954915965218.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#slide-2 {
+    background-image: url("https://i.pinimg.com/474x/17/08/91/170891b8d980b5204e9d5abda0965b17.jpg");
+    /* background-position: 0 -48rem; 
+    background-position: center;
+    background-size: cover;
+}
+#slide-3 {
+    background-image: url("https://i.pinimg.com/474x/b8/27/2e/b8272ef35357a198994e00bc9c6797ec.jpg");
+    background-position: center;
+    background-size: cover;
+
+}
+#slide-4 {
+    background-image: url("https://i.pinimg.com/474x/a9/c8/f1/a9c8f13e7e2e74bef2c912a34de68e8f.jpg");
+    background-position: center;
+    background-size: cover;
+
+} */
+.btn-holderr .buttonn {
+    background-color: rgba(255, 255, 255, 0.272);
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    display: inline-block;
+    margin: .3rem;
+}
+.btn-holderr {
+    position: absolute;
+    right: 21%;
+    bottom: 20%;
+} .buttonn:hover {
+    cursor: pointer;
+    box-shadow: 0px 0px 7px 7px rgba(0, 25, 255, 0.6); 
+}
+@keyframes slider {
+    0%{transform: translateX(0%);}
+    10%{transform: translateX(-100%);}
+    20%{transform: translateX(-100%);}
+    30%{transform: translateX(-200%);}
+    40%{transform: translateX(-200%);}
+    50%{transform: translateX(-200%);}
+    60%{transform: translateX(-300%);}
+    70%{transform: translateX(-300%);}
+    80%{transform: translateX(-300%);}
+    90%{transform: translateX(0%);}
+    100%{transform: translateX(0%);}
+}
