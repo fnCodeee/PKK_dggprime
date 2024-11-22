@@ -13,7 +13,7 @@ const Slider = (props) => {
  const { className } = props;
 
  return (
-  <div className=" rounded-2xl shadow-lg overflow-hidden min-w-2/4 h-72 sm:h-80">
+  <div className="rounded-2xl shadow-lg overflow-hidden min-w-2/4 h-72 sm:h-80">
    <div className="wrapper-holderrr relative">
     {SliderLength.map((slide, index) => (
      <div key={index} className={`relative w-full h-full overflow-hidden justify-center ${className}`}>

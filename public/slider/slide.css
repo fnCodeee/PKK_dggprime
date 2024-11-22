@@ -8,29 +8,6 @@
     animation: slider 20s ease-in-out normal infinite; 
 } 
 
-/* #slide-1 {
-    background-image: url("https://i.pinimg.com/474x/c7/49/46/c74946d5abe61803085e954915965218.jpg");
-    background-position: center;
-    background-size: cover;
-}
-#slide-2 {
-    background-image: url("https://i.pinimg.com/474x/17/08/91/170891b8d980b5204e9d5abda0965b17.jpg");
-    /* background-position: 0 -48rem; 
-    background-position: center;
-    background-size: cover;
-}
-#slide-3 {
-    background-image: url("https://i.pinimg.com/474x/b8/27/2e/b8272ef35357a198994e00bc9c6797ec.jpg");
-    background-position: center;
-    background-size: cover;
-
-}
-#slide-4 {
-    background-image: url("https://i.pinimg.com/474x/a9/c8/f1/a9c8f13e7e2e74bef2c912a34de68e8f.jpg");
-    background-position: center;
-    background-size: cover;
-
-} */
 .btn-holderr .buttonn {
     background-color: rgba(255, 255, 255, 0.272);
     width: 15px;
