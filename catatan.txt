@@ -1,0 +1,7 @@
+dropdown dan Navbar template dari prime bagian logout
+di Dashboard buat user Account (opsional) 
+ - untuk folder auth baru di bikin kosongan, dan route nya masih bersatu dengan adminDashboard
+
+Buat Database pakai mongo untuk product dan backend express
+Buat Database pakai mongo untuk user dan backend express
+
