@@ -5,3 +5,6 @@ di Dashboard buat user Account (opsional)
 Buat Database pakai mongo untuk product dan backend express
 Buat Database pakai mongo untuk user dan backend express
 
+Untukk animasi 
+https://codepen.io/agathaco/pen/NyQgQX
+https://codepen.io/alinaki/pen/KwPwVPr
